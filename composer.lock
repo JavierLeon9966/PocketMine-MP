@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "76c6b5521d8f88d9070e8dec1c0ae144",
+    "content-hash": "2d3d3d0d6836dd733851f8e6e713915c",
     "packages": [
         {
             "name": "adhocore/json-comment",
@@ -1821,16 +1821,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.9.7",
+            "version": "1.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "0501435cd342eac7664bd62155b1ef907fc60b6f"
+                "reference": "a2ffec7db373d8da4973d1d62add872db5cd22dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/0501435cd342eac7664bd62155b1ef907fc60b6f",
-                "reference": "0501435cd342eac7664bd62155b1ef907fc60b6f",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/a2ffec7db373d8da4973d1d62add872db5cd22dd",
+                "reference": "a2ffec7db373d8da4973d1d62add872db5cd22dd",
                 "shasum": ""
             },
             "require": {
@@ -1860,7 +1860,7 @@
             ],
             "support": {
                 "issues": "https://github.com/phpstan/phpstan/issues",
-                "source": "https://github.com/phpstan/phpstan/tree/1.9.7"
+                "source": "https://github.com/phpstan/phpstan/tree/1.10.2"
             },
             "funding": [
                 {
@@ -1876,7 +1876,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-04T21:59:57+00:00"
+            "time": "2023-02-23T14:36:46+00:00"
         },
         {
             "name": "phpstan/phpstan-phpunit",
